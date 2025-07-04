@@ -1,4 +1,4 @@
-# 🏨 Hotel-Booking-Cancellation-Analysis (Excel Interactive Dashboard)
+# Hotel-Booking-Cancellation-Analysis (Excel Interactive Dashboard)
 
 ## Project Objective
 To analyze hotel booking and cancellation patterns from 2015 to 2017. This helps in understanding customer behavior, identifying cancellation trends, and improving hotel service strategy using Excel dashboarding.
